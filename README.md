@@ -10,7 +10,7 @@ O objetivo deste projeto é demonstrar a construção de um modelo de dados otim
 
 ## Arquitetura do Projeto
 
-![Diagrama do Esquema Estrela]
+![Diagrama do Esquema Estrela](https://github.com/mucarii/BI-star-schema/blob/main/diagrama_estrela_BI.png)
 
 O modelo de dados foi organizado em um esquema estrela com as seguintes tabelas:
 
